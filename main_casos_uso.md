@@ -14,7 +14,7 @@ Bem-vindo à especificação de casos de uso do sistema. Este documento descreve
 ## Casos de Uso Funcionais
 | Código  | Nome                    | Descrição                                                | Link                                         |
 |---------|-------------------------|----------------------------------------------------------|----------------------------------------------|
-| CU001   | Registrar Usuário       | Permitir que um visitante crie uma conta no sistema.     | [Registrar Usuário](#caso-de-uso-registrar-usuário) |
+| CU001   | Registrar Usuário       | Permitir que um visitante crie uma conta no sistema.     | [Registrar Usuário](ecu_registrar_usuario.md) |
 | CU002   | Fazer Login             | Autenticar um usuário com e-mail e senha.                | [Fazer Login](#caso-de-uso-fazer-login)      |
 | CU003   | Recuperar Senha         | Permitir que um usuário recupere a senha esquecida.      | [Recuperar Senha](#caso-de-uso-recuperar-senha) |
 | CU004   | Atualizar Perfil        | Permitir que um usuário atualize suas informações.       | [Atualizar Perfil](#caso-de-uso-atualizar-perfil) |
